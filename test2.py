@@ -5,4 +5,5 @@ def myfunc():
 
 func = myfunc()
 func()
+1234
 
