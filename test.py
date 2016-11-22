@@ -1,4 +1,4 @@
-x = 15
+x = 150
 def printHam():
 	pass
 class Test:
